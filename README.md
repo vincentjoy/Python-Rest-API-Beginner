@@ -1,0 +1,1 @@
+This project is for learning the Djnago Rest API fraework
